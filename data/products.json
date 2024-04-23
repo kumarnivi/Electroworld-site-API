@@ -1,0 +1,36 @@
+[
+    {
+        "name": "OPPO F2SF",
+        "price":234.04,
+        "description": "dfsfsdgg gfdgfh",
+        "ratings":4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image":"/images/products/2.jpg"
+            }
+        ],
+        "category":"Mobile phones",
+        "seller":"Amazon",
+        "stock":5
+    },
+    {
+        "name": "APPle F2SF",
+        "price":244.04,
+        "description": "dsdsfd fdddg fdgdfg",
+        "ratings":4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image":"/images/products/2.jpg"
+            }
+        ],
+        "category":"Laptop",
+        "seller":"Amazon",
+        "stock":10
+    }
+]
