@@ -6,16 +6,7 @@
      "src": "app.js",
      "use": "@vercel/node" 
      }
-    ],
-"routes": [
-    {
-        "src": "/api/v1/products",
-        "dest": "/routes/product.js"
-      },
-      {
-        "src": "/api/v1/product/:id",
-        "dest": "/routes/product.js"
-      }
     ]
+
 }
 
